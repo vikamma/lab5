@@ -1,0 +1,15 @@
+C:\Users\Victoria\source\repos\Matsiuk05\Matsiuk05\obj\Debug\Matsiuk05.csprojAssemblyReference.cache
+C:\Users\Victoria\source\repos\Matsiuk05\Matsiuk05\obj\Debug\MainWindow.g.cs
+C:\Users\Victoria\source\repos\Matsiuk05\Matsiuk05\obj\Debug\App.g.cs
+C:\Users\Victoria\source\repos\Matsiuk05\Matsiuk05\obj\Debug\Matsiuk05_MarkupCompile.cache
+C:\Users\Victoria\source\repos\Matsiuk05\Matsiuk05\obj\Debug\Matsiuk05_MarkupCompile.lref
+C:\Users\Victoria\source\repos\Matsiuk05\Matsiuk05\bin\Debug\Matsiuk05.exe.config
+C:\Users\Victoria\source\repos\Matsiuk05\Matsiuk05\bin\Debug\Matsiuk05.exe
+C:\Users\Victoria\source\repos\Matsiuk05\Matsiuk05\bin\Debug\Matsiuk05.pdb
+C:\Users\Victoria\source\repos\Matsiuk05\Matsiuk05\obj\Debug\MainWindow.baml
+C:\Users\Victoria\source\repos\Matsiuk05\Matsiuk05\obj\Debug\Matsiuk05.g.resources
+C:\Users\Victoria\source\repos\Matsiuk05\Matsiuk05\obj\Debug\Matsiuk05.Properties.Resources.resources
+C:\Users\Victoria\source\repos\Matsiuk05\Matsiuk05\obj\Debug\Matsiuk05.csproj.GenerateResource.cache
+C:\Users\Victoria\source\repos\Matsiuk05\Matsiuk05\obj\Debug\Matsiuk05.csproj.CoreCompileInputs.cache
+C:\Users\Victoria\source\repos\Matsiuk05\Matsiuk05\obj\Debug\Matsiuk05.exe
+C:\Users\Victoria\source\repos\Matsiuk05\Matsiuk05\obj\Debug\Matsiuk05.pdb
